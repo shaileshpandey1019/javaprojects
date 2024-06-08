@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a91f2af0-98cf-443a-af6d-4f89f0bd980f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrintArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrintArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MultiDimensionalArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MultiDimensionalArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +24,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2hZ1WdMoIXf3kCRgYBkznniPDNu" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -37,9 +39,23 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.MultiDimensionalArray">
+  <component name="RunManager" selected="Application.HighestArray">
+    <configuration name="HighestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HighestArray" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MultiDimensionalArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MultiDimensionalArray" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmallestArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SmallestArray" />
       <module name="JavaProject" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -54,6 +70,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HighestArray" />
+        <item itemvalue="Application.SmallestArray" />
         <item itemvalue="Application.MultiDimensionalArray" />
         <item itemvalue="Application.TestArray1" />
       </list>
