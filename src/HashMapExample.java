@@ -5,7 +5,7 @@ import java.util.Map;
 public class HashMapExample {
     public static void main(String[] args) {
         // Create a HashMap
-        HashMap<String, Integer> map = new HashMap<>();
+        HashMap<String, Integer> map = new HashMap<String, Integer>();
 
         // Add key-value pairs to the HashMap
         map.put("one", 1);
@@ -24,9 +24,9 @@ public class HashMapExample {
         boolean hasValue = map.containsValue(3);
         System.out.println("Contains value 3: " + hasValue);
 
-        // Remove a key-value pair
-        map.remove("two");
-        System.out.println("Key 'two' removed.");
+//        // Remove a key-value pair
+//        map.remove("two");
+//        System.out.println("Key 'two' removed.");
 
         // Iterate over the HashMap
         for (Map.Entry<String, Integer> entry : map.entrySet()) {

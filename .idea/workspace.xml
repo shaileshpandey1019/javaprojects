@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a91f2af0-98cf-443a-af6d-4f89f0bd980f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaProject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/HashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/HashMapExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/HashMapExample.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +54,7 @@
     "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.SwapNumbers">
     <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HashMapExample" />
       <module name="JavaProject" />
@@ -62,8 +62,16 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SwapNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SwapNumbers" />
+      <module name="JavaProject" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SwapNumbers" />
         <item itemvalue="Application.HashMapExample" />
       </list>
     </recent_temporary>
