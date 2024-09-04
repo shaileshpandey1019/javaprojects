@@ -7,10 +7,7 @@ public class RotateRight {
         int arr[]={1,2,3,4,5}; // 5,1,2,3,4
         int n=2;
         System.out.println(Arrays.toString(rotateRight( arr,  n)));
-
-
         }
-
     static int[] rotateRight(int arr[], int n) {
         int len = arr.length;
         int last = arr[len - 1];

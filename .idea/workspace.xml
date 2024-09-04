@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a91f2af0-98cf-443a-af6d-4f89f0bd980f" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arrays/RemoveDuplicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RemoveDuplicate.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arrays/RotateRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arrays/RotateRight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/Arrays/RotateRight.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Arrays/RotateRight.class" afterDir="false" />
     </list>
@@ -54,9 +55,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.RemoveDuplicate">
-    <configuration name="RemoveDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RemoveDuplicate" />
+  <component name="RunManager" selected="Application.WordPatternHashmap">
+    <configuration name="ArraylistExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.ArraylistExample1" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -68,8 +69,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateRight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.RotateRight" />
+    <configuration name="HashMapExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.HashMapExample" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +82,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SumArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SumArray" />
+    <configuration name="HashMapExample1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.HashMapExample1" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +95,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapArrayIndex" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.SwapArrayIndex" />
+    <configuration name="WordPatternHashmap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Arrays.WordPatternHashmap" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
@@ -107,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumIndexPosition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Arrays.TwoSumIndexPosition" />
+    <configuration name="methodOverriding" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JavaOops.methodOverriding" />
       <module name="JavaProject" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Arrays.*" />
+          <option name="PATTERN" value="JavaOops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RemoveDuplicate" />
-        <item itemvalue="Application.RotateRight" />
-        <item itemvalue="Application.SwapArrayIndex" />
-        <item itemvalue="Application.SumArray" />
-        <item itemvalue="Application.TwoSumIndexPosition" />
+        <item itemvalue="Application.WordPatternHashmap" />
+        <item itemvalue="Application.HashMapExample1" />
+        <item itemvalue="Application.HashMapExample" />
+        <item itemvalue="Application.ArraylistExample1" />
+        <item itemvalue="Application.methodOverriding" />
       </list>
     </recent_temporary>
   </component>
@@ -185,8 +186,18 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Arrays/RotateRight.java</url>
-          <line>17</line>
+          <line>14</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/JavaOops/methodOverriding.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Arrays/HashMapExample.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/SlidingWindowON.java</url>
@@ -203,5 +214,10 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JavaProject$ArraylistExample1.ic" NAME="ArraylistExample1 Coverage Results" MODIFIED="1724747814659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Arrays.*</FILTER>
+    </SUITE>
   </component>
 </project>
